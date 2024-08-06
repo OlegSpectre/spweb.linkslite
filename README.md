@@ -1,6 +1,7 @@
 # spweb.linkslite
 <h2>Описание компонента Битрикс</h2>
-![alt text](https://github.com/OlegSpectre/spweb.linkslite/blob/main/fast-link-1.jpg?raw=true)
+
+<img src="https://github.com/OlegSpectre/spweb.linkslite/blob/main/fast-link-1.jpg">
 
 <p>Компонент 1С-Битрикс «Быстрые ссылки LITE (перелинковка)», выводит SEO-ссылки на любой странице и любые ссылки, которые вы хотите вывести. Работает как с дружелюбными ссылками, так и с get ссылками или фильтрами (site.ru/page/?filter=132123).</p>
 
