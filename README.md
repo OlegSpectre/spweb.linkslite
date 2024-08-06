@@ -35,3 +35,9 @@
 	<li>Установить модуль стандартно ваш-сайт/bitrix/admin/partner_modules.php</li>
 	<li>Модуль готов к работе</li>
 </ol>
+
+<h3>После установки демо-данных</h3>
+
+<img src="https://github.com/OlegSpectre/spweb.linkslite/blob/main/fast-link-2.jpg">
+
+<img src="https://github.com/OlegSpectre/spweb.linkslite/blob/main/fast-link-3.jpg">
