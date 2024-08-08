@@ -1,0 +1,65 @@
+.sp-link-outer{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    clear: both;
+    overflow: hidden;
+}
+
+.sp-link-outer a{
+    text-decoration: none;
+    display: block;
+    float: left;
+    line-height: normal;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: .5em 1em;
+    border: 1px solid #000;
+    color: #000;
+}
+
+.sp-link-outer a:hover{
+    text-decoration: none;
+    display: block;
+    float: left;
+    line-height: normal;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: .5em 1em;
+    border: 1px solid #000;
+    background-color: #000;
+    color: #fff;
+}
+
+.sp-link-outer .sp-link-link span{
+}
+
+.sp-link-readmore p{
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.sp-link-outer{
+	position: relative;
+}
+
+.sp-link-outer .owl-nav .owl-prev{
+	position: absolute;
+	color: #d8b1b2;
+	top: 3px;
+	left: -15px;
+	font-size: 24px;
+	line-height: 1;
+}
+
+.sp-link-outer .owl-nav .owl-next{
+	position: absolute;
+	color: #d8b1b2;
+	top: 3px;
+	right: -20px;
+	font-size: 24px;
+	line-height: 1;
+}
+
+.sp-link-container{
+    display: block!important;
+}
