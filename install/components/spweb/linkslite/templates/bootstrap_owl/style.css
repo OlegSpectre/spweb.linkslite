@@ -1,0 +1,76 @@
+.sp-link-outer{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    clear: both;
+    overflow: hidden;
+}
+
+.sp-link-outer a{
+    text-decoration: none;
+    display: block;
+    float: left;
+    line-height: normal;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: .5em 1em;
+    border: 1px solid #000;
+    color: #000;
+}
+
+.sp-link-outer a:hover{
+    text-decoration: none;
+    display: block;
+    float: left;
+    line-height: normal;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: .5em 1em;
+    border: 1px solid #000;
+    background-color: #000;
+    color: #fff;
+}
+
+.sp-link-outer .sp-link-container-owl.owl-carousel .owl-stage-outer{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.sp-link-outer .sp-link-link span{
+}
+
+.sp-link-readmore p{
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.sp-link-outer{
+	position: relative;
+}
+
+.sp-link-outer .sp-link-container-owl .owl-nav .owl-prev{
+	position: absolute;
+	color: #000;
+	top: 0px;
+	left: -5px;
+	font-size: 24px;
+	line-height: 1;
+}
+
+.sp-link-outer .sp-link-container-owl .owl-nav .owl-next{
+	position: absolute;
+	color: #000;
+	top: 0px;
+	right: -5px;
+	font-size: 24px;
+	line-height: 1;
+}
+
+.sp-link-container-owl{
+    display: block!important;
+}
+
+.sp-link-outer .sp-link-container-owl.owl-carousel .item{
+    
+}
+
+ 
